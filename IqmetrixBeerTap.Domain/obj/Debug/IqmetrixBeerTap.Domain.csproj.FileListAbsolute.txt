@@ -1,0 +1,17 @@
+C:\Users\Arbhe.Olantigue\Documents\Visual Studio 2015\Projects\IqmetrixBeerTap\IqmetrixBeerTap.Domain\bin\Debug\IqmetrixBeerTap.Domain.dll
+C:\Users\Arbhe.Olantigue\Documents\Visual Studio 2015\Projects\IqmetrixBeerTap\IqmetrixBeerTap.Domain\bin\Debug\IqmetrixBeerTap.Domain.pdb
+C:\Users\Arbhe.Olantigue\Documents\Visual Studio 2015\Projects\IqmetrixBeerTap\IqmetrixBeerTap.Domain\obj\Debug\IqmetrixBeerTap.Domain.dll
+C:\Users\Arbhe.Olantigue\Documents\Visual Studio 2015\Projects\IqmetrixBeerTap\IqmetrixBeerTap.Domain\obj\Debug\IqmetrixBeerTap.Domain.pdb
+C:\Users\Arbhe.Olantigue\Documents\Visual Studio 2015\Projects\IqmetrixBeerTap\IqmetrixBeerTap.Domain\bin\Debug\IqmetrixBeerTap.Domain.dll.config
+C:\Users\Arbhe.Olantigue\Documents\Visual Studio 2015\Projects\IqmetrixBeerTap\IqmetrixBeerTap.Domain\bin\Debug\EntityFramework.dll
+C:\Users\Arbhe.Olantigue\Documents\Visual Studio 2015\Projects\IqmetrixBeerTap\IqmetrixBeerTap.Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Arbhe.Olantigue\Documents\Visual Studio 2015\Projects\IqmetrixBeerTap\IqmetrixBeerTap.Domain\bin\Debug\EntityFramework.xml
+C:\Users\Arbhe.Olantigue\Documents\Visual Studio 2015\Projects\IqmetrixBeerTap\IqmetrixBeerTap.Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Arbhe.Olantigue\Documents\Visual Studio 2015\Projects\IqmetrixBeerTap\IqmetrixBeerTap.Domain\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Arbhe.Olantigue\Documents\Visual Studio 2015\Projects\IqmetrixBeerTap\IqmetrixBeerTap.Domain\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Arbhe.Olantigue\Documents\Visual Studio 2015\Projects\IqmetrixBeerTap\IqmetrixBeerTap.Domain\bin\Debug\System.Web.Http.dll
+C:\Users\Arbhe.Olantigue\Documents\Visual Studio 2015\Projects\IqmetrixBeerTap\IqmetrixBeerTap.Domain\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Arbhe.Olantigue\Documents\Visual Studio 2015\Projects\IqmetrixBeerTap\IqmetrixBeerTap.Domain\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Arbhe.Olantigue\Documents\Visual Studio 2015\Projects\IqmetrixBeerTap\IqmetrixBeerTap.Domain\bin\Debug\System.Web.Http.xml
+C:\Users\Arbhe.Olantigue\Documents\Visual Studio 2015\Projects\IqmetrixBeerTap\IqmetrixBeerTap.Domain\obj\Debug\IqmetrixBeerTap.Domain.Migrations.initial.resources
+C:\Users\Arbhe.Olantigue\Documents\Visual Studio 2015\Projects\IqmetrixBeerTap\IqmetrixBeerTap.Domain\obj\Debug\IqmetrixBeerTap.Domain.csproj.GenerateResource.Cache

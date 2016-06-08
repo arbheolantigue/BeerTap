@@ -1,0 +1,10 @@
+c:\users\arbhe.olantigue\documents\visual studio 2015\Projects\IqmetrixBeerTap\IqmetrixBeerTap\IqmetrixBeerTap.Model\bin\Debug\IqmetrixBeerTap.Model.XML
+c:\users\arbhe.olantigue\documents\visual studio 2015\Projects\IqmetrixBeerTap\IqmetrixBeerTap\IqmetrixBeerTap.Model\bin\Debug\IqmetrixBeerTap.Model.dll
+c:\users\arbhe.olantigue\documents\visual studio 2015\Projects\IqmetrixBeerTap\IqmetrixBeerTap\IqmetrixBeerTap.Model\bin\Debug\IqmetrixBeerTap.Model.pdb
+c:\users\arbhe.olantigue\documents\visual studio 2015\Projects\IqmetrixBeerTap\IqmetrixBeerTap\IqmetrixBeerTap.Model\bin\Debug\IQ.Platform.Framework.Common.dll
+c:\users\arbhe.olantigue\documents\visual studio 2015\Projects\IqmetrixBeerTap\IqmetrixBeerTap\IqmetrixBeerTap.Model\bin\Debug\IQ.Platform.Framework.WebApi.Model.dll
+c:\users\arbhe.olantigue\documents\visual studio 2015\Projects\IqmetrixBeerTap\IqmetrixBeerTap\IqmetrixBeerTap.Model\bin\Debug\Newtonsoft.Json.dll
+c:\users\arbhe.olantigue\documents\visual studio 2015\Projects\IqmetrixBeerTap\IqmetrixBeerTap\IqmetrixBeerTap.Model\bin\Debug\IQ.Platform.Framework.WebApi.Model.xml
+c:\users\arbhe.olantigue\documents\visual studio 2015\Projects\IqmetrixBeerTap\IqmetrixBeerTap\IqmetrixBeerTap.Model\bin\Debug\Newtonsoft.Json.xml
+c:\users\arbhe.olantigue\documents\visual studio 2015\Projects\IqmetrixBeerTap\IqmetrixBeerTap\IqmetrixBeerTap.Model\obj\Debug\IqmetrixBeerTap.Model.dll
+c:\users\arbhe.olantigue\documents\visual studio 2015\Projects\IqmetrixBeerTap\IqmetrixBeerTap\IqmetrixBeerTap.Model\obj\Debug\IqmetrixBeerTap.Model.pdb
